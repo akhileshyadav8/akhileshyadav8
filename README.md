@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Yadav</h1>
 <h3 align="center">🚀 Aspiring Data Analyst | Data Scientist</h3>
 <p align="center">
-  🌐 <a href="https://yaadavakhilesh.github.io" target="_blank"><b>Portfolio</b></a> &nbsp;|&nbsp;
+  🌐 <a href="https://akhileshyadav8.github.io" target="_blank"><b>Portfolio</b></a> &nbsp;|&nbsp;
   💼 <a href="https://www.linkedin.com/in/akhilesh-yadav88/" target="_blank"><b>LinkedIn</b></a> &nbsp;|&nbsp;
 </p>
 
@@ -73,12 +73,6 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YaadavAkhilesh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
-<br/><br/>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YaadavAkhilesh&theme=react-dark"/>
-</p>
 
 ---
 
