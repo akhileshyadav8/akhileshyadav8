@@ -19,7 +19,7 @@
 - 🎯 Goal: To become a skilled **Data Scientist** who solves real-world problems
 - 💬 Ask me about **Data Science & Web Development** 
 
-![Profile views](https://komarev.com/ghpvc/?username=YaadavAkhilesh&label=Visitors&color=green&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=akhileshyadav8&label=Visitors&color=green&style=flat)
 
 ---
 
@@ -58,20 +58,20 @@
 
 | Project | Tools & Skills | What I Did | Link |
 |-------|---------------|-----------|------|
-| **Walmart Sales Analysis** | Python, SQL, Pandas, Power BI | Cleaned sales data, analyzed branch-wise performance, and built an interactive dashboard for business insights | [Repo](https://github.com/YaadavAkhilesh/Walmart-Analysis-Python-SQL-PowerBI) |
-| **Uber Rides Analysis** | Python, Pandas, Matplotlib, Seaborn | Analyzed ride patterns by time, location, and demand to identify peak usage trends | [Repo](https://github.com/YaadavAkhilesh/Uber-Rides-Analysis) |
-| **E-Commerce Data Analysis** | Python, Pandas, EDA, Visualization | Analyzed sales trends, customer behavior, and delivery performance using real-world e-commerce data | [Repo](https://github.com/YaadavAkhilesh/E-Commerce-Analysis) |
-| **Amazon Prime Video Dashboard** | Power BI, Excel | Designed an interactive dashboard to analyze content distribution, genres, and ratings | [Repo](https://github.com/YaadavAkhilesh/Amazon-Prime-Video-PowerBi-Dashboard) |
-| **Cognifyz Data Analysis Internship Project** | Python, Data Analysis | Completed real-world analytical tasks as part of a structured internship program | [Repo](https://github.com/YaadavAkhilesh/Cognifyz-Data-Analysis-Internship-Project) |
+| **Walmart Sales Analysis** | Python, SQL, Pandas, Power BI | Cleaned sales data, analyzed branch-wise performance, and built an interactive dashboard for business insights | [Repo](https://github.com/akhileshyadav8/Walmart-Analysis-Python-SQL-PowerBI) |
+| **Uber Rides Analysis** | Python, Pandas, Matplotlib, Seaborn | Analyzed ride patterns by time, location, and demand to identify peak usage trends | [Repo](https://github.com/akhileshyadav8/Uber-Rides-Analysis) |
+| **E-Commerce Data Analysis** | Python, Pandas, EDA, Visualization | Analyzed sales trends, customer behavior, and delivery performance using real-world e-commerce data | [Repo](https://github.com/akhileshyadav8/E-Commerce-Analysis) |
+| **Amazon Prime Video Dashboard** | Power BI, Excel | Designed an interactive dashboard to analyze content distribution, genres, and ratings | [Repo](https://github.com/akhileshyadav8/Amazon-Prime-Video-PowerBi-Dashboard) |
+| **Cognifyz Data Analysis Internship Project** | Python, Data Analysis | Completed real-world analytical tasks as part of a structured internship program | [Repo](https://github.com/akhileshyadav8/Cognifyz-Data-Analysis-Internship-Project) |
 
 ---
 
 ### 📊 GitHub Analytics
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=YaadavAkhilesh&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=YaadavAkhilesh&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=akhileshyadav8&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=akhileshyadav8&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=YaadavAkhilesh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=akhileshyadav8&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 ---
@@ -79,4 +79,4 @@
 ### 💖 Support
 If you like my work, consider giving a ⭐️ to my repositories!  
 
-⭐️ From [YaadavAkhilesh](https://github.com/YaadavAkhilesh)
+⭐️ From [akhileshyadav8](https://github.com/akhileshyadav8)
