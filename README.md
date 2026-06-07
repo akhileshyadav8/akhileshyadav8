@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Data Analyst | Data Scientist</h3>
 <p align="center">
   🌐 <a href="https://akhileshyadav8.github.io" target="_blank"><b>Portfolio</b></a> &nbsp;|&nbsp;
-  💼 <a href="https://www.linkedin.com/in/akhilesh-yadav88/" target="_blank"><b>LinkedIn</b></a> &nbsp;|&nbsp;
+  💼 <a href="https://www.linkedin.com/in/akhilesh-yadav88/" target="_blank"><b>LinkedIn</b></a> &nbsp;
 </p>
 
 <p align="center">
