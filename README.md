@@ -87,8 +87,7 @@
   <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/fastapi.svg" width="55"/><br>
   FastAPI
   
-  <img src="https://skillicons.dev/icons?i=flask" width="55"/><br>
-  Flask
+
   
   </td>
   
