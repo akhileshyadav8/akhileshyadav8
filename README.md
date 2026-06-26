@@ -25,46 +25,124 @@
 
 ### 🛠️ Tech Stack
 
-#### 🚀 Data Science & Machine Learning
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-FF8C00?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-FF9A8B?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
+<h2>🛠️ Tech Stack</h2>
 
-#### 📊 Data Analytics & Visualization
-<p align="left">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
+<h3>🚀 Data Science & Machine Learning</h3>
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=python" width="55" height="55"/><br>Python
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=numpy" width="55" height="55"/><br>NumPy
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=pandas" width="55" height="55"/><br>Pandas
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=sklearn" width="55" height="55"/><br>Scikit-learn
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55"/><br>TensorFlow
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55"/><br>PyTorch
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=opencv" width="55" height="55"/><br>OpenCV
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=anaconda" width="55" height="55"/><br>Anaconda
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=matlab" width="55" height="55"/><br>MATLAB
+</td>
+</tr>
 
-#### ⚡ Backend & APIs
-<p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
-</p>
+</table>
 
-#### ☁️ Cloud & Deployment
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
 
-#### 💻 Development Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  [![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-</p>
+<h3>📊 Data Analytics & Visualization</h3>
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=jupyter" width="55" height="55"/><br>Jupyter
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=matplotlib" width="55" height="55"/><br>Matplotlib
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=seaborn" width="55" height="55"/><br>Seaborn
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=plotly" width="55" height="55"/><br>Plotly
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=streamlit" width="55" height="55"/><br>Streamlit
+</td>
+</tr>
+</table>
+
+
+<h3>⚡ Backend & APIs</h3>
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55"/><br>FastAPI
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=flask" width="55" height="55"/><br>Flask
+</td>
+</tr>
+</table>
+
+
+<h3>☁️ Cloud & Deployment</h3>
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=aws" width="55" height="55"/><br>AWS
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=docker" width="55" height="55"/><br>Docker
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=linux" width="55" height="55"/><br>Linux
+</td>
+</tr>
+</table>
+
+
+<h3>💻 Databases</h3>
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=mysql" width="55" height="55"/><br>MySQL
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55"/><br>MongoDB
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=postgres" width="55" height="55"/><br>PostgreSQL
+</td>
+</tr>
+</table>
+
+
+<h3>🛠️ Development Tools</h3>
+<table>
+<tr>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=git" width="55" height="55"/><br>Git
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=github" width="55" height="55"/><br>GitHub
+</td>
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=vscode" width="55" height="55"/><br>VS Code
+</td>
+</tr>
+</table>
 
 ---
 
