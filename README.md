@@ -31,22 +31,19 @@
 <table>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" width="55" height="55"/><br>Python
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/python-auto.svg" width="55" height="55"/><br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55"/><br>NumPy
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/numpy-auto.svg" width="55" height="55"/><br>NumPy
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55"/><br>Pandas
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pandas-auto.svg" width="55" height="55"/><br>Pandas
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=sklearn" width="55" height="55"/><br>Scikit-learn
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/scikitlearn-auto.svg" width="55" height="55"/><br>Scikit-learn
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55"/><br>TensorFlow
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=opencv" width="55" height="55"/><br>OpenCV
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/tensorflow-auto.svg" width="55" height="55"/><br>TensorFlow
     </td>
   </tr>
 </table>
@@ -71,7 +68,7 @@
       <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/plotly-auto.svg" width="55" height="55"/><br>Plotly
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="55"/><br>Streamlit
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/streamlit-auto.svg" width="55"/><br>Streamlit
     </td>
   </tr>
 </table>
@@ -81,7 +78,7 @@
 <table>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55"/><br>FastAPI
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/fastapi.svg" width="55" height="55"/><br>FastAPI
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=flask" width="55" height="55"/><br>Flask
@@ -94,10 +91,10 @@
 <table>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=aws" width="55" height="55"/><br>AWS
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/aws-auto.svg" width="55" height="55"/><br>AWS
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=docker" width="55" height="55"/><br>Docker
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/docker.svg" width="55" height="55"/><br>Docker
     </td>
   </tr>
 </table>
@@ -107,10 +104,10 @@
 <table>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55"/><br>MySQL
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mysql-auto.svg" width="55" height="55"/><br>MySQL
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55"/><br>MongoDB
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mongodb.svg" width="55" height="55"/><br>MongoDB
     </td>
   </tr>
 </table>
@@ -120,19 +117,19 @@
 <table>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=git" width="55" height="55"/><br>Git
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/git-auto.svg" width="55" height="55"/><br>Git
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=github" width="55" height="55"/><br>GitHub
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/github-auto.svg" width="55" height="55"/><br>GitHub
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55"/><br>VS Code
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/vscode-auto.svg" width="55" height="55"/><br>VS Code
     </td>
     <td align="center" width="90">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55"/><br>Jupyter
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-auto.svg" width="55" height="55"/><br>Jupyter
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=anaconda" width="55" height="55"/><br>Anaconda
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/anaconda-auto.svg" width="55" height="55"/><br>Anaconda
     </td>
   </tr>
 </table>
