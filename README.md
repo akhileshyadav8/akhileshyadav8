@@ -29,119 +29,112 @@
 
 <h3>🚀 Data Science & Machine Learning</h3>
 <table>
-<tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=python" width="55" height="55"/><br>Python
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=numpy" width="55" height="55"/><br>NumPy
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=pandas" width="55" height="55"/><br>Pandas
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=sklearn" width="55" height="55"/><br>Scikit-learn
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55"/><br>TensorFlow
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=pytorch" width="55" height="55"/><br>PyTorch
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=opencv" width="55" height="55"/><br>OpenCV
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=anaconda" width="55" height="55"/><br>Anaconda
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=matlab" width="55" height="55"/><br>MATLAB
-</td>
-</tr>
-
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=python" width="55" height="55"/><br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55"/><br>NumPy
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55"/><br>Pandas
+    </td>
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="55" height="55"/><br>Scikit-learn
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="55" height="55"/><br>TensorFlow
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=opencv" width="55" height="55"/><br>OpenCV
+    </td>
+  </tr>
 </table>
 
 
 <h3>📊 Data Analytics & Visualization</h3>
 <table>
-<tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=jupyter" width="55" height="55"/><br>Jupyter
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=matplotlib" width="55" height="55"/><br>Matplotlib
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=seaborn" width="55" height="55"/><br>Seaborn
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=plotly" width="55" height="55"/><br>Plotly
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=streamlit" width="55" height="55"/><br>Streamlit
-</td>
-</tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55"/><br>Matplotlib
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/seaborn-auto.svg" width="55"/><br>Seaborn
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pbi-auto.svg" width="55"/><br>Power BI
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/excel-auto.svg" width="55"/><br>Excel
+    </td>
+    <td align="center" width="90">
+      <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="55" height="55"/><br>Plotly
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="55"/><br>Streamlit
+    </td>
+  </tr>
 </table>
 
 
 <h3>⚡ Backend & APIs</h3>
 <table>
-<tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55"/><br>FastAPI
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=flask" width="55" height="55"/><br>Flask
-</td>
-</tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="55" height="55"/><br>FastAPI
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=flask" width="55" height="55"/><br>Flask
+    </td>
+  </tr>
 </table>
 
 
 <h3>☁️ Cloud & Deployment</h3>
 <table>
-<tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=aws" width="55" height="55"/><br>AWS
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=docker" width="55" height="55"/><br>Docker
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=linux" width="55" height="55"/><br>Linux
-</td>
-</tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=aws" width="55" height="55"/><br>AWS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=docker" width="55" height="55"/><br>Docker
+    </td>
+  </tr>
 </table>
 
 
 <h3>💻 Databases</h3>
 <table>
-<tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=mysql" width="55" height="55"/><br>MySQL
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55"/><br>MongoDB
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=postgres" width="55" height="55"/><br>PostgreSQL
-</td>
-</tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55"/><br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55"/><br>MongoDB
+    </td>
+  </tr>
 </table>
 
 
 <h3>🛠️ Development Tools</h3>
 <table>
-<tr>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=git" width="55" height="55"/><br>Git
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=github" width="55" height="55"/><br>GitHub
-</td>
-<td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=vscode" width="55" height="55"/><br>VS Code
-</td>
-</tr>
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=git" width="55" height="55"/><br>Git
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=github" width="55" height="55"/><br>GitHub
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55"/><br>VS Code
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55"/><br>Jupyter
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=anaconda" width="55" height="55"/><br>Anaconda
+    </td>
+  </tr>
 </table>
 
 ---
