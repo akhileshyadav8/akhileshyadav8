@@ -68,7 +68,7 @@
       <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/excel-auto.svg" width="55"/><br>Excel
     </td>
     <td align="center" width="90">
-      <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" width="55" height="55"/><br>Plotly
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/plotly-auto.svg" width="55" height="55"/><br>Plotly
     </td>
     <td align="center" width="90">
       <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="55"/><br>Streamlit
