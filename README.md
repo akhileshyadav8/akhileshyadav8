@@ -23,114 +23,116 @@
 
 ---
 
-### 🛠️ Tech Stack
-
 <h2>🛠️ Tech Stack</h2>
 
-<h3>🚀 Data Science & Machine Learning</h3>
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/python-auto.svg" width="55" height="55"/><br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/numpy-auto.svg" width="55" height="55"/><br>NumPy
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pandas-auto.svg" width="55" height="55"/><br>Pandas
-    </td>
-    <td align="center" width="110">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/scikitlearn-auto.svg" width="55" height="55"/><br>Scikit-learn
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/tensorflow-auto.svg" width="55" height="55"/><br>TensorFlow
-    </td>
+<table align="center" border="1px">
+  <tr height="85px">
+    <th align="center">🚀 Data Science &<br>Machine Learning</th>
+    <th align="center">📊 Data Analytics &<br>Visualization</th>
+    <th align="center">⚡ Backend &<br>APIs</th>
+    <th align="center">☁️ Cloud &<br>Deployment</th>
+    <th align="center">💾 Databases</th>
+    <th align="center">🛠️ Development<br>Tools</th>
   </tr>
-</table>
 
-
-<h3>📊 Data Analytics & Visualization</h3>
-<table>
   <tr>
-    <td align="center" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55"/><br>Matplotlib
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/seaborn-auto.svg" width="55"/><br>Seaborn
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pbi-auto.svg" width="55"/><br>Power BI
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/excel-auto.svg" width="55"/><br>Excel
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/plotly-auto.svg" width="55" height="55"/><br>Plotly
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/streamlit-auto.svg" width="55"/><br>Streamlit
-    </td>
-  </tr>
-</table>
-
-
-<h3>⚡ Backend & APIs</h3>
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/fastapi.svg" width="55" height="55"/><br>FastAPI
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flask" width="55" height="55"/><br>Flask
-    </td>
-  </tr>
-</table>
-
-
-<h3>☁️ Cloud & Deployment</h3>
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/aws-auto.svg" width="55" height="55"/><br>AWS
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/docker.svg" width="55" height="55"/><br>Docker
-    </td>
-  </tr>
-</table>
-
-
-<h3>💻 Databases</h3>
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mysql-auto.svg" width="55" height="55"/><br>MySQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mongodb.svg" width="55" height="55"/><br>MongoDB
-    </td>
-  </tr>
-</table>
-
-
-<h3>🛠️ Development Tools</h3>
-<table>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/git-auto.svg" width="55" height="55"/><br>Git
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/github-auto.svg" width="55" height="55"/><br>GitHub
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/vscode-auto.svg" width="55" height="55"/><br>VS Code
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-auto.svg" width="55" height="55"/><br>Jupyter
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/anaconda-auto.svg" width="55" height="55"/><br>Anaconda
-    </td>
+  
+  <!-- Data Science -->
+  <td align="center" valign="top">
+  
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/python-auto.svg" width="55"/><br>
+  Python
+  
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/numpy-auto.svg" width="55"/><br>
+  NumPy
+  
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pandas-auto.svg" width="55"/><br>
+  Pandas
+  
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/scikitlearn-auto.svg" width="55"/><br>
+  Scikit-learn
+  
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/tensorflow-auto.svg" width="55"/><br>
+  TensorFlow
+  
+  </td>
+  
+  <!-- Analytics -->
+  <td align="center" valign="top">
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="55"/><br>
+  Matplotlib
+  
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/seaborn-auto.svg" width="55"/><br>
+  Seaborn
+  
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/pbi-auto.svg" width="55"/><br>
+  Power BI
+  
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/excel-auto.svg" width="55"/><br>
+  Excel
+  
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/plotly-auto.svg" width="55"/><br>
+  Plotly
+  
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/streamlit-auto.svg" width="55"/><br>
+  Streamlit
+  
+  </td>
+  
+  <!-- Backend -->
+  <td align="center" valign="top">
+  
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/fastapi.svg" width="55"/><br>
+  FastAPI
+  
+  <img src="https://skillicons.dev/icons?i=flask" width="55"/><br>
+  Flask
+  
+  </td>
+  
+  <!-- Cloud -->
+  <td align="center" valign="top">
+  
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/aws-auto.svg" width="55"/><br>
+  AWS
+  
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/docker.svg" width="55"/><br>
+  Docker
+  
+  </td>
+  
+  <!-- Database -->
+  <td align="center" valign="top">
+  
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mysql-auto.svg" width="55"/><br>
+  MySQL
+  
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mongodb.svg" width="55"/><br>
+  MongoDB
+  
+  </td>
+  
+  <!-- Tools -->
+  <td align="center" valign="top">
+  
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/git-auto.svg" width="55"/><br>
+  Git
+  
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/github-auto.svg" width="55"/><br>
+  GitHub
+  
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/vscode-auto.svg" width="55"/><br>
+  VS Code
+  
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/jupyter-auto.svg" width="55"/><br>
+  Jupyter
+  
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/anaconda-auto.svg" width="55"/><br>
+  Anaconda
+  
+  </td>
+  
   </tr>
 </table>
 
