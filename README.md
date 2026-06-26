@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Yadav</h1>
 <h3 align="center">🚀 Aspiring Data Analyst | Data Scientist</h3>
 <p align="center">
-   <a href="https://akhileshyadav8.github.io/" target="_blank">
-      <img align="center" src="https://api.iconify.design/material-symbols/language.svg?color=ffffff" alt="Portfolio" height="30" width="40" />
-   </a> 
-  &nbsp;|&nbsp;
+<a href="https://your-portfolio-url.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/primer/octicons/main/icons/browser-24.svg#gh-light-mode-only" width="30" height="30" alt="Portfolio" />
+    <img src="https://raw.githubusercontent.com/yourusername/assets/main/browser-white.svg#gh-dark-mode-only" width="30" height="30" alt="Portfolio" />
+</a> &nbsp;|&nbsp;
    <a href="https://www.linkedin.com/in/akhilesh-yadav88/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"           alt="https://www.linkedin.com/in/akhilesh-yadav88/" height="30" width="40" />
    </a>
