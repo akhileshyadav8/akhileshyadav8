@@ -1,32 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akhilesh Yadav</h1>
 <h3 align="center">🚀 Aspiring Data Analyst | Data Scientist</h3>
 <p align="center">
-<a href="https://akhileshyadav8.github.io/" target="_blank">
-  <picture>
-    <!-- Dark Theme -->
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://api.iconify.design/material-symbols/language.svg?color=ffffff"
-    />
-    <!-- Light Theme -->
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://api.iconify.design/material-symbols/language.svg?color=000000"
-    />
-    <!-- Fallback -->
-    <img
-      align="center"
-      src="https://api.iconify.design/material-symbols/language.svg?color=000000"
-      alt="Portfolio"
-      width="40"
-      height="30"
-    />
-  </picture>
-</a> &nbsp;|&nbsp;
-   <a href="https://www.linkedin.com/in/akhilesh-yadav88/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"           alt="https://www.linkedin.com/in/akhilesh-yadav88/" height="30" width="40" />
-   </a>
-</p>
+  🌐 <a href="https://akhileshyadav8.github.io" target="_blank"><b>Portfolio</b></a> &nbsp;|&nbsp;
+  💼 <a href="https://www.linkedin.com/in/akhilesh-yadav88/" target="_blank"><b>LinkedIn</b></a> &nbsp;
+</p> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF5733&center=true&vCenter=true&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;Always+Learning+New+Things">
