@@ -76,7 +76,8 @@
   <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/plotly-auto.svg" width="55"/><br>
   Plotly
   
-
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/streamlit-auto.svg" width="55"/><br>
+  Streamlit
   
   </td>
   
