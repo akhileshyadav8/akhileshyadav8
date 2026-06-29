@@ -55,6 +55,10 @@
   
   <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/tensorflow-auto.svg" width="55"/><br>
   TensorFlow
+
+  <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/kaggle-auto.svg" width="55"/><br>
+  Kaggle
+
   
   </td>
   
